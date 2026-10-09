@@ -1,0 +1,49 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "neoforge:not",
+          "value": {
+            "type": "neoforge:mod_loaded",
+            "modid": "pneumaticcraft"
+          }
+        },
+        {
+          "type": "neoforge:not",
+          "value": {
+            "type": "neoforge:mod_loaded",
+            "modid": "mekanism"
+          }
+        }
+      ]
+    }
+  ],
+  "type": "oritech:refinery",
+  "fluidInput": {
+    "amount": 1000,
+    "fluid": "minecraft:lava"
+  },
+  "fluidOutputs": [
+    {
+      "amount": 1000,
+      "fluid": "oritech:still_sulfuric_acid"
+    },
+    {
+      "amount": 500,
+      "fluid": "oritech:still_sheol_fire"
+    },
+    {
+      "amount": 200,
+      "fluid": "oritech:still_strange_matter"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "oritech:enderic_compound"
+    }
+  ],
+  "results": [],
+  "time": 120
+}

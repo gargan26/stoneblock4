@@ -1,0 +1,11 @@
+{
+  "id": 130,
+  "name": "FTB StoneBlock 4",
+  "slug": "ftb-stoneblock-4",
+  "type": "release",
+  "version": {
+    "id": 100501,
+    "name": "1.21.0",
+    "type": "release"
+  }
+}

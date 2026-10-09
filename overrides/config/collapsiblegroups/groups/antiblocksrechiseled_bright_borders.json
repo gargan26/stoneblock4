@@ -1,0 +1,22 @@
+{
+  "id": "antiblocksrechiseled_bright_borders",
+  "name": {
+    "translate": "collapsible_groups.group.antiblocksrechiseled_bright_borders",
+    "fallback": "AntiBlocksReChiseled: Bright Borders"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "antiblocksrechiseled"
+      },
+      {
+        "item_path_starts_with": "bright_"
+      },
+      {
+        "item_path_ends_with": "_border"
+      }
+    ]
+  }
+}

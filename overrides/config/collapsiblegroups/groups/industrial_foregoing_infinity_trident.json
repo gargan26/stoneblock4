@@ -1,0 +1,12 @@
+{
+  "id": "industrial_foregoing_infinity_trident",
+  "name": {
+    "translate": "collapsible_groups.group.industrial_foregoing_infinity_trident",
+    "fallback": "Industrial Foregoing: Infinity Tridents"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "industrialforegoing:infinity_trident"
+  }
+}

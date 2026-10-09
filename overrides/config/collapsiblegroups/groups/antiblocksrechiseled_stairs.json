@@ -1,0 +1,19 @@
+{
+  "id": "antiblocksrechiseled_stairs",
+  "name": {
+    "translate": "collapsible_groups.group.antiblocksrechiseled_stairs",
+    "fallback": "AntiBlocksReChiseled: Stairs"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "antiblocksrechiseled"
+      },
+      {
+        "item_path_starts_with": "stair_"
+      }
+    ]
+  }
+}

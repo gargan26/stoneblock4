@@ -1,0 +1,12 @@
+{
+  "id": "immersive_engineering_blueprints",
+  "name": {
+    "translate": "collapsible_groups.group.immersive_engineering_blueprints",
+    "fallback": "Immersive Engineering: Blueprints"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "immersiveengineering:blueprint"
+  }
+}

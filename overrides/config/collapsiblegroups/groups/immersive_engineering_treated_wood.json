@@ -1,0 +1,29 @@
+{
+  "id": "immersive_engineering_treated_wood",
+  "name": {
+    "translate": "collapsible_groups.group.immersive_engineering_treated_wood",
+    "fallback": "Immersive Engineering: Treated Wood"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "immersiveengineering"
+      },
+      {
+        "item_path_contains": "treated_wood"
+      },
+      {
+        "not": {
+          "item_path_starts_with": "bannerpattern"
+        }
+      },
+      {
+        "not": {
+          "item_path_ends_with": "_sign"
+        }
+      }
+    ]
+  }
+}

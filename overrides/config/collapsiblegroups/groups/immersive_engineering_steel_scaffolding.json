@@ -1,0 +1,19 @@
+{
+  "id": "immersive_engineering_steel_scaffolding",
+  "name": {
+    "translate": "collapsible_groups.group.immersive_engineering_steel_scaffolding",
+    "fallback": "Immersive Engineering: Steel Scaffolding"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "immersiveengineering"
+      },
+      {
+        "item_path_contains": "steel_scaffolding"
+      }
+    ]
+  }
+}

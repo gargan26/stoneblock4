@@ -1,0 +1,12 @@
+{
+  "id": "industrial_foregoing_infinity_saw",
+  "name": {
+    "translate": "collapsible_groups.group.industrial_foregoing_infinity_saw",
+    "fallback": "Industrial Foregoing: Infinity Saws"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "industrialforegoing:infinity_saw"
+  }
+}

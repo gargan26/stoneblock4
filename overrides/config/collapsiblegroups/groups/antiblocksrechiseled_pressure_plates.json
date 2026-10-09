@@ -1,0 +1,19 @@
+{
+  "id": "antiblocksrechiseled_pressure_plates",
+  "name": {
+    "translate": "collapsible_groups.group.antiblocksrechiseled_pressure_plates",
+    "fallback": "AntiBlocksReChiseled: Pressure Plates"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "antiblocksrechiseled"
+      },
+      {
+        "item_path_starts_with": "pressure_plate_"
+      }
+    ]
+  }
+}

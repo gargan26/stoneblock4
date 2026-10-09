@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "Overrides ExtraDataModels's Hostile Networks Wither data model to remove the Draconic Evolution chaos fragment fabricator drop."
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:none",
+  "allowed_biomes": "#minecraft:is_beach",
+  "features": "farmersdelight:patch_wild_beetroots",
+  "step": "vegetal_decoration"
+}

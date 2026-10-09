@@ -1,0 +1,12 @@
+{
+  "id": "industrial_foregoing_infinity_hammer",
+  "name": {
+    "translate": "collapsible_groups.group.industrial_foregoing_infinity_hammer",
+    "fallback": "Industrial Foregoing: Infinity Hammers"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "industrialforegoing:infinity_hammer"
+  }
+}

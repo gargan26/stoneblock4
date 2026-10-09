@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:none",
+  "allowed_biomes": "#minecraft:is_beach",
+  "features": "farmersdelight:patch_wild_cabbages",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "immersive_engineering_aluminium_scaffolding",
+  "name": {
+    "translate": "collapsible_groups.group.immersive_engineering_aluminium_scaffolding",
+    "fallback": "Immersive Engineering: Aluminium Scaffolding"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "immersiveengineering"
+      },
+      {
+        "item_path_contains": "alu_scaffolding"
+      }
+    ]
+  }
+}

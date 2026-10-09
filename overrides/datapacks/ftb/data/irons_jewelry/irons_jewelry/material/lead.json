@@ -1,0 +1,15 @@
+{
+    "descriptionId": "ftb.irons.material.lead",
+    "ingredient": {
+      "tag": "c:ingots/lead"
+    },
+    "paletteLocation": "irons_jewelry:palettes/moonstone",
+    "quality": 0.75,
+    "bonusParameters": {
+      "irons_jewelry:attribute": {
+        "attribute": "minecraft:generic.attack_speed",
+        "amount": 5,
+        "operation": "add_value"
+      }
+    }
+  }

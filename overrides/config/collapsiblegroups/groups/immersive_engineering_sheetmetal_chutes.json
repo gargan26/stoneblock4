@@ -1,0 +1,19 @@
+{
+  "id": "immersive_engineering_sheetmetal_chutes",
+  "name": {
+    "translate": "collapsible_groups.group.immersive_engineering_sheetmetal_chutes",
+    "fallback": "Immersive Engineering: Sheetmetal Chutes"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "immersiveengineering"
+      },
+      {
+        "item_path_starts_with": "chute_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "immersive_engineering_molds",
+  "name": {
+    "translate": "collapsible_groups.group.immersive_engineering_molds",
+    "fallback": "Immersive Engineering: Molds"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "immersiveengineering"
+      },
+      {
+        "item_path_starts_with": "mold_"
+      }
+    ]
+  }
+}

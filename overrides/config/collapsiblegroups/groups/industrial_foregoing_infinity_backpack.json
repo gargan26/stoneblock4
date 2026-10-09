@@ -1,0 +1,12 @@
+{
+  "id": "industrial_foregoing_infinity_backpack",
+  "name": {
+    "translate": "collapsible_groups.group.industrial_foregoing_infinity_backpack",
+    "fallback": "Industrial Foregoing: Infinity Backpacks"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "industrialforegoing:infinity_backpack"
+  }
+}

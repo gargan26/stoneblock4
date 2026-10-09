@@ -1,0 +1,83 @@
+{
+  "registeredProperties": [
+    "canBreakBlocks",
+    "canInteract",
+    "canPlaceBlocks",
+    "allowPlayerPVP",
+    "allowCreatureSpawning",
+    "preventHostileSpawns",
+    "preventPassiveSpawns",
+    "allowFireSpread",
+    "allowExplosions",
+    "allowItemPickup",
+    "onlyProtectOriginalBlocks",
+    "allowElytraFlight",
+    "allowEnderPearls",
+    "allowRiptide",
+    "allowCreativeFlight",
+    "allowEnderTeleportation",
+    "creativeBypass",
+    "preventMobGriefing",
+    "interactionWhitelist",
+    "interactionBlacklist",
+    "itemUseBlacklist",
+    "itemUseWhitelist",
+    "blockBreakWhitelist",
+    "blockBreakBlacklist",
+    "blockPlaceWhitelist",
+    "blockPlaceBlacklist"
+  ],
+  "config": {
+    "canBreakBlocks": true,
+    "canInteract": true,
+    "canPlaceBlocks": true,
+    "allowPlayerPVP": true,
+    "allowCreatureSpawning": true,
+    "preventHostileSpawns": false,
+    "preventPassiveSpawns": false,
+    "allowFireSpread": true,
+    "allowExplosions": true,
+    "allowItemPickup": true,
+    "onlyProtectOriginalBlocks": false,
+    "allowElytraFlight": true,
+    "allowEnderPearls": true,
+    "allowRiptide": true,
+    "allowCreativeFlight": true,
+    "allowEnderTeleportation": true,
+    "creativeBypass": true,
+    "preventMobGriefing": false,
+    "interactionWhitelist": [
+      "simpletomb:grave_cross",
+      "simpletomb:grave_normal",
+      "simpletomb:grave_simple"
+    ],
+    "interactionBlacklist": [],
+    "itemUseBlacklist": [
+      "projecte:rm_morning_star",
+      "projecte:rm_hammer",
+      "projecte:rm_pick",
+      "projecte:rm_axe",
+      "projecte:rm_shovel",
+      "projecte:dm_hammer",
+      "projecte:dm_pick",
+      "projecte:dm_axe",
+      "projecte:dm_shovel"
+    ],
+    "itemUseWhitelist": [
+      "simpletomb:grave_key"
+    ],
+    "blockBreakWhitelist": [
+      "simpletomb:grave_cross",
+      "simpletomb:grave_normal",
+      "simpletomb:grave_simple",
+      "minecraft:decorated_pot"
+    ],
+    "blockBreakBlacklist": [],
+    "blockPlaceWhitelist": [
+      "simpletomb:grave_cross",
+      "simpletomb:grave_normal",
+      "simpletomb:grave_simple"
+    ],
+    "blockPlaceBlacklist": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "Q": {
+      "item": "actuallyadditions:black_quartz"
+    },
+    "S": {
+      "tag": "c:stones"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SQS",
+    "SSS"
+  ],
+  "result": {
+    "count": 8,
+    "id": "chisel:arcane_stone/raw"
+  }
+}

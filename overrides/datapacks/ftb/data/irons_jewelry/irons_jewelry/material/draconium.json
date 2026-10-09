@@ -1,0 +1,15 @@
+{
+  "descriptionId": "ftb.irons.material.draconium",
+  "ingredient": {
+    "item": "draconicevolution:draconium_ingot"
+  },
+  "paletteLocation": "ftb:palettes/draconium_new",
+  "quality": 3,
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "attribute": "apothic_attributes:armor_pierce",
+      "amount": 0.075,
+      "operation": "add_multiplied_total"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ftb_unearthed_worker_tokens",
+  "name": {
+    "translate": "collapsible_groups.group.ftb_unearthed_worker_tokens",
+    "fallback": "FTB Unearthed: Worker Tokens"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "ftbunearthed:worker_token"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "antiblocksrechiseled_wool_borders",
+  "name": {
+    "translate": "collapsible_groups.group.antiblocksrechiseled_wool_borders",
+    "fallback": "AntiBlocksReChiseled: Wool Borders"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "antiblocksrechiseled"
+      },
+      {
+        "item_path_starts_with": "wool_"
+      },
+      {
+        "item_path_ends_with": "_border"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "industrial_foregoing_infinity_launcher",
+  "name": {
+    "translate": "collapsible_groups.group.industrial_foregoing_infinity_launcher",
+    "fallback": "Industrial Foregoing: Infinity Launchers"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "industrialforegoing:infinity_launcher"
+  }
+}

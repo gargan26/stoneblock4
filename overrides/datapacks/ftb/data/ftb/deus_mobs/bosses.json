@@ -1,0 +1,7 @@
+{
+  "target": "#ftb:bosses",
+  "buffs": {
+    "deus_ex_machina:resistance": { "min": 10, "max": 80, "increase": 5, "reset": "FULL" },
+    "deus_ex_machina:attack_boost": { "min": 10, "max": 80, "increase": 5, "reset": "FULL" }
+  }
+}

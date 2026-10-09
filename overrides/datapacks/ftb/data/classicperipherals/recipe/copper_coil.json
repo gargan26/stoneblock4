@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": {
+      "tag": "c:wires/copper"
+    },
+    "w": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    " c ",
+    "cwc",
+    " c "
+  ],
+  "result": {
+    "count": 2,
+    "id": "classicperipherals:copper_coil"
+  }
+}

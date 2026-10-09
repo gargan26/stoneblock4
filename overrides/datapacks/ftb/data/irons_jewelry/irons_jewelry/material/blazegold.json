@@ -1,0 +1,15 @@
+{
+  "descriptionId": "ftb.irons.material.blazegold",
+  "ingredient": {
+    "item": "justdirethings:blazegold_ingot"
+  },
+  "paletteLocation": "ftb:palettes/awakened",
+  "quality": 1.5,
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "attribute": "apothic_attributes:overheal",
+      "amount": 0.10,
+      "operation": "add_multiplied_total"
+    }
+  }
+}

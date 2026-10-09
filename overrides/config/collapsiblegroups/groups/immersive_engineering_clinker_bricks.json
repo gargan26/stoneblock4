@@ -1,0 +1,19 @@
+{
+  "id": "immersive_engineering_clinker_bricks",
+  "name": {
+    "translate": "collapsible_groups.group.immersive_engineering_clinker_bricks",
+    "fallback": "Immersive Engineering: Clinker Bricks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "immersiveengineering"
+      },
+      {
+        "item_path_contains": "clinker_brick"
+      }
+    ]
+  }
+}

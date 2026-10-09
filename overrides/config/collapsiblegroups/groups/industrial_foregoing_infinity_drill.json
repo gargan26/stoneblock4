@@ -1,0 +1,12 @@
+{
+  "id": "industrial_foregoing_infinity_drill",
+  "name": {
+    "translate": "collapsible_groups.group.industrial_foregoing_infinity_drill",
+    "fallback": "Industrial Foregoing: Infinity Drills"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "industrialforegoing:infinity_drill"
+  }
+}
